@@ -1,1 +1,1 @@
-# aoeligaeco
+Economy bot for AoELiga
